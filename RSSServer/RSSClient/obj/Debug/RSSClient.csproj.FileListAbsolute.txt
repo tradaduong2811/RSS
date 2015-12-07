@@ -1,0 +1,6 @@
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\bin\RSSClient.dll.config
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\bin\RSSClient.dll
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\bin\RSSClient.pdb
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.csprojResolveAssemblyReference.cache
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.dll
+C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.pdb
