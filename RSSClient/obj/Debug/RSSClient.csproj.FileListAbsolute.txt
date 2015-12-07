@@ -4,3 +4,9 @@ C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\bin\RSSClient.pdb
 C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.csprojResolveAssemblyReference.cache
 C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.dll
 C:\Users\GloryZhang\Desktop\RSSServer\RSSClient\obj\Debug\RSSClient.pdb
+D:\ASP Git\RSS\RSSServer\RSSClient\bin\RSSClient.dll.config
+D:\ASP Git\RSS\RSSServer\RSSClient\bin\RSSClient.dll
+D:\ASP Git\RSS\RSSServer\RSSClient\bin\RSSClient.pdb
+D:\ASP Git\RSS\RSSServer\RSSClient\obj\Debug\RSSClient.csprojResolveAssemblyReference.cache
+D:\ASP Git\RSS\RSSServer\RSSClient\obj\Debug\RSSClient.dll
+D:\ASP Git\RSS\RSSServer\RSSClient\obj\Debug\RSSClient.pdb
